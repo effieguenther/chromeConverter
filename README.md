@@ -1,2 +1,2 @@
 # chromeConverter
-Chrome extension that converts yards to meters and vice versa
+Chrome extension that converts yards to meters on moodfabrics.com
